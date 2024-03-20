@@ -1,2 +1,2 @@
 # Bulk-sms-Sender
-This repository contains a bulk SMS sender application,
+This repository contains a bulk SMS sender application that allows users to send SMS messages to multiple recipients simultaneously. The application is designed to provide a simple and efficient solution for community communication needs, such as announcements, reminders, and event notifications. It offers features for managing contact lists, scheduling messages, and tracking delivery status. Developed in C# the application ensures reliability and scalability, making it suitable for various organizations, businesses, and community groups. Join us in enhancing community engagement through effective communication with Bulk SMS Sender!
