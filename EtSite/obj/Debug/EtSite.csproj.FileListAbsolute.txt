@@ -1,0 +1,100 @@
+C:\Users\Pc\Desktop\EtSite\EtSite\bin\EtSite.dll
+C:\Users\Pc\Desktop\EtSite\EtSite\bin\EtSite.pdb
+C:\Users\Pc\Desktop\EtSite\EtSite\obj\Debug\EtSite.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\EtSite\EtSite\obj\Debug\EtSite.dll
+C:\Users\Pc\Desktop\EtSite\EtSite\obj\Debug\EtSite.pdb
+C:\Users\Pc\Desktop\EtSite\EtSite\bin\AjaxControlToolkit.dll
+C:\Users\Pc\Desktop\EtSite\EtSite\bin\CKEditor.NET.dll
+C:\Users\Pc\Desktop\EtSite\EtSite\bin\CKFinder.dll
+C:\Users\Pc\Desktop\EtSite\EtSite\bin\CollectionPager.dll
+C:\Users\Pc\Desktop\EtSite\EtSite\bin\AjaxControlToolkit.pdb
+C:\Users\Pc\Desktop\EtSite\EtSite\bin\CKEditor.NET.pdb
+C:\Users\Pc\Desktop\EtSite\EtSite\bin\CKFinder.pdb
+C:\Users\Pc\Desktop\EtSite\EtSite\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Slider\EtSite\bin\EtSite.dll
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Slider\EtSite\bin\EtSite.pdb
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Slider\EtSite\bin\CKFinder.dll
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Slider\EtSite\bin\AjaxControlToolkit.pdb
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Slider\EtSite\bin\CKEditor.NET.pdb
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Slider\EtSite\bin\CKFinder.pdb
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Slider\EtSite\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Slider\EtSite\obj\Debug\EtSite.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Slider\EtSite\obj\Debug\EtSite.dll
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Slider\EtSite\obj\Debug\EtSite.pdb
+C:\Users\Admin\Desktop\EtSite Yeni Slider\EtSite\bin\EtSite.dll
+C:\Users\Admin\Desktop\EtSite Yeni Slider\EtSite\bin\EtSite.pdb
+C:\Users\Admin\Desktop\EtSite Yeni Slider\EtSite\bin\CKFinder.dll
+C:\Users\Admin\Desktop\EtSite Yeni Slider\EtSite\bin\AjaxControlToolkit.pdb
+C:\Users\Admin\Desktop\EtSite Yeni Slider\EtSite\bin\CKEditor.NET.pdb
+C:\Users\Admin\Desktop\EtSite Yeni Slider\EtSite\bin\CKFinder.pdb
+C:\Users\Admin\Desktop\EtSite Yeni Slider\EtSite\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\EtSite Yeni Slider\EtSite\obj\Debug\EtSite.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\EtSite Yeni Slider\EtSite\obj\Debug\EtSite.dll
+C:\Users\Admin\Desktop\EtSite Yeni Slider\EtSite\obj\Debug\EtSite.pdb
+C:\Users\Admin\Desktop\EtSite Yeni\EtSite\bin\EtSite.dll
+C:\Users\Admin\Desktop\EtSite Yeni\EtSite\bin\EtSite.pdb
+C:\Users\Admin\Desktop\EtSite Yeni\EtSite\bin\CKFinder.dll
+C:\Users\Admin\Desktop\EtSite Yeni\EtSite\bin\AjaxControlToolkit.pdb
+C:\Users\Admin\Desktop\EtSite Yeni\EtSite\bin\CKEditor.NET.pdb
+C:\Users\Admin\Desktop\EtSite Yeni\EtSite\bin\CKFinder.pdb
+C:\Users\Admin\Desktop\EtSite Yeni\EtSite\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Admin\Desktop\EtSite Yeni\EtSite\obj\Debug\EtSite.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\EtSite Yeni\EtSite\obj\Debug\EtSite.dll
+C:\Users\Admin\Desktop\EtSite Yeni\EtSite\obj\Debug\EtSite.pdb
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Tema\EtSite\bin\EtSite.dll
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Tema\EtSite\bin\EtSite.pdb
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Tema\EtSite\bin\CKFinder.dll
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Tema\EtSite\bin\AjaxControlToolkit.pdb
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Tema\EtSite\bin\CKEditor.NET.pdb
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Tema\EtSite\bin\CKFinder.pdb
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Tema\EtSite\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Tema\EtSite\obj\Debug\EtSite.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Tema\EtSite\obj\Debug\EtSite.dll
+C:\Users\Pc\Desktop\Yedek\EtSite Yeni Tema\EtSite\obj\Debug\EtSite.pdb
+C:\Users\Pc\Desktop\Yedek\Eticaret\Eticaret4 Ana Site\EtSite\bin\EtSite.dll
+C:\Users\Pc\Desktop\Yedek\Eticaret\Eticaret4 Ana Site\EtSite\bin\EtSite.pdb
+C:\Users\Pc\Desktop\Yedek\Eticaret\Eticaret4 Ana Site\EtSite\bin\CKFinder.dll
+C:\Users\Pc\Desktop\Yedek\Eticaret\Eticaret4 Ana Site\EtSite\bin\AjaxControlToolkit.pdb
+C:\Users\Pc\Desktop\Yedek\Eticaret\Eticaret4 Ana Site\EtSite\bin\CKEditor.NET.pdb
+C:\Users\Pc\Desktop\Yedek\Eticaret\Eticaret4 Ana Site\EtSite\bin\CKFinder.pdb
+C:\Users\Pc\Desktop\Yedek\Eticaret\Eticaret4 Ana Site\EtSite\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Pc\Desktop\Yedek\Eticaret\Eticaret4 Ana Site\EtSite\obj\Debug\EtSite.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Yedek\Eticaret\Eticaret4 Ana Site\EtSite\obj\Debug\EtSite.dll
+C:\Users\Pc\Desktop\Yedek\Eticaret\Eticaret4 Ana Site\EtSite\obj\Debug\EtSite.pdb
+C:\Users\Pc\Desktop\Site\Eticaret4 Ana Site\EtSite\bin\EtSite.dll
+C:\Users\Pc\Desktop\Site\Eticaret4 Ana Site\EtSite\bin\EtSite.pdb
+C:\Users\Pc\Desktop\Site\Eticaret4 Ana Site\EtSite\bin\CKFinder.dll
+C:\Users\Pc\Desktop\Site\Eticaret4 Ana Site\EtSite\bin\AjaxControlToolkit.pdb
+C:\Users\Pc\Desktop\Site\Eticaret4 Ana Site\EtSite\bin\CKEditor.NET.pdb
+C:\Users\Pc\Desktop\Site\Eticaret4 Ana Site\EtSite\bin\CKFinder.pdb
+C:\Users\Pc\Desktop\Site\Eticaret4 Ana Site\EtSite\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Pc\Desktop\Site\Eticaret4 Ana Site\EtSite\obj\Debug\EtSite.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Site\Eticaret4 Ana Site\EtSite\obj\Debug\EtSite.dll
+C:\Users\Pc\Desktop\Site\Eticaret4 Ana Site\EtSite\obj\Debug\EtSite.pdb
+C:\Users\UNİT-3\Desktop\Site\Eticaret4 Ana Site\EtSite\bin\EtSite.dll
+C:\Users\UNİT-3\Desktop\Site\Eticaret4 Ana Site\EtSite\bin\EtSite.pdb
+C:\Users\UNİT-3\Desktop\Site\Eticaret4 Ana Site\EtSite\bin\CKFinder.dll
+C:\Users\UNİT-3\Desktop\Site\Eticaret4 Ana Site\EtSite\bin\AjaxControlToolkit.pdb
+C:\Users\UNİT-3\Desktop\Site\Eticaret4 Ana Site\EtSite\bin\CKEditor.NET.pdb
+C:\Users\UNİT-3\Desktop\Site\Eticaret4 Ana Site\EtSite\bin\CKFinder.pdb
+C:\Users\UNİT-3\Desktop\Site\Eticaret4 Ana Site\EtSite\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\UNİT-3\Desktop\Site\Eticaret4 Ana Site\EtSite\obj\Debug\EtSite.csprojResolveAssemblyReference.cache
+C:\Users\UNİT-3\Desktop\Site\Eticaret4 Ana Site\EtSite\obj\Debug\EtSite.dll
+C:\Users\UNİT-3\Desktop\Site\Eticaret4 Ana Site\EtSite\obj\Debug\EtSite.pdb
+C:\Users\UNİT-3\Desktop\Site\EtSite\bin\EtSite.dll
+C:\Users\UNİT-3\Desktop\Site\EtSite\bin\EtSite.pdb
+C:\Users\UNİT-3\Desktop\Site\EtSite\bin\CKFinder.dll
+C:\Users\UNİT-3\Desktop\Site\EtSite\bin\AjaxControlToolkit.pdb
+C:\Users\UNİT-3\Desktop\Site\EtSite\bin\CKEditor.NET.pdb
+C:\Users\UNİT-3\Desktop\Site\EtSite\bin\CKFinder.pdb
+C:\Users\UNİT-3\Desktop\Site\EtSite\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\UNİT-3\Desktop\Site\EtSite\obj\Debug\EtSite.csprojResolveAssemblyReference.cache
+C:\Users\UNİT-3\Desktop\Site\EtSite\obj\Debug\EtSite.dll
+C:\Users\UNİT-3\Desktop\Site\EtSite\obj\Debug\EtSite.pdb
+C:\Users\UNİT-3\Desktop\EgeTopluSms\EtSite\bin\EtSite.dll
+C:\Users\UNİT-3\Desktop\EgeTopluSms\EtSite\bin\EtSite.pdb
+C:\Users\UNİT-3\Desktop\EgeTopluSms\EtSite\bin\CKFinder.dll
+C:\Users\UNİT-3\Desktop\EgeTopluSms\EtSite\bin\CKFinder.pdb
+C:\Users\UNİT-3\Desktop\EgeTopluSms\EtSite\obj\Debug\EtSite.dll
+C:\Users\UNİT-3\Desktop\EgeTopluSms\EtSite\obj\Debug\EtSite.pdb
+C:\Users\UNİT-3\Desktop\EgeTopluSms\EtSite\obj\Debug\EtSite.csprojResolveAssemblyReference.cache
